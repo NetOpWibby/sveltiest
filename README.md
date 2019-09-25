@@ -6,7 +6,7 @@ Sublime Text Syntax highlighting for [Svelte 3](https://svelte.dev) components.
 
 ### Install
 
-- Via Package Control: search for `Sveltiest`.
+- ~Via Package Control: search for `Sveltiest`.~ (Haven't gone through the submission process yet)
 - Manual: clone this repo into your Sublime `Packages` folder.
 
 **NOTE:** You still need to install corresponding packages for pre-processors (e.g. Sass, Typescript) to get proper syntax highlighting for them.
